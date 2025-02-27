@@ -1,4 +1,4 @@
-# 📚 Estudos na FIAP
+# 📚 Engenharia de Software - FIAP
 
 Este repositório contém meus estudos e projetos desenvolvidos durante meu curso de Engenharia de Software na FIAP.
 
