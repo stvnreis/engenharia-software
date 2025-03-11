@@ -12,6 +12,10 @@ Armazenar e compartilhar projetos e exercícios desenvolvidos durante o curso.
 
 Cada pasta contém anotações, exercícios, projetos e códigos que desenvolvi durante as disciplinas.
 
+## 📝 Anotações
+
+<a href="https://www.notion.so/Engenharia-de-Software-FIAP-1a7a2bc554c580f491e3db2f422c24b9">Notas do notion</a>
+
 ## 🚀 Tecnologias Utilizadas
 
 Ao longo do curso, trabalhei com diversas tecnologias, incluindo:
