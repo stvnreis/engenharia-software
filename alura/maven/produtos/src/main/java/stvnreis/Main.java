@@ -1,13 +1,12 @@
 package stvnreis;
 
-import java.io.FileNotFoundException;
+import com.opencsv.bean.CsvToBeanBuilder;
+import stvnreis.model.Produto;
+import stvnreis.service.TraduzirProdutoService;
+
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.List;
-
-import com.opencsv.bean.CsvToBeanBuilder;
-
-import stvnreis.model.Produto;
 
 /**
  * @author stevenreis
@@ -22,8 +21,11 @@ public class Main {
                 .build()
                 .parse();
 
+        TraduzirProdutoService traduzirProdutoService = new TraduzirProdutoService();
+
         for (var produto : produtos) {
 
+            traduzirProdutoService.traduzir(produto);
             System.out.println(produto.getName());
         }
     }

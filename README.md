@@ -1,14 +1,15 @@
 # 📚 Engenharia de Software - FIAP
 
-Este repositório contém meus estudos e projetos desenvolvidos durante meu curso de Engenharia de Software na FIAP.
+Este repositório contém meus estudos e projetos desenvolvidos durante meu curso de Engenharia de Software na FIAP e Estudos na Alura.
 
 ## 🎯 Objetivo
 
-Armazenar e compartilhar projetos e exercícios desenvolvidos durante o curso.
+Armazenar e compartilhar projetos e exercícios desenvolvidos durante meu tempo de estudo.
 
 ## 📁 Estrutura do Repositório
 
-- `semestre-1/` → Entendendo e aprendendo o front-end com projetos
+- `alura/*` → Todos os cursos práticos realizados na alura a partir de maio/2025
+- `fiap/semestre-1/` → Entendendo e aprendendo o front-end com projetos
 
 Cada pasta contém anotações, exercícios, projetos e códigos que desenvolvi durante as disciplinas.
 
