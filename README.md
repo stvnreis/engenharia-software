@@ -1,6 +1,6 @@
-# 📚 Engenharia de Software - FIAP
+# 📚 Engenharia de Software - FIAP - UTFPR
 
-Este repositório contém meus estudos e projetos desenvolvidos durante meu curso de Engenharia de Software na FIAP e Estudos na Alura.
+Este repositório contém meus estudos e projetos desenvolvidos durante meu curso de Engenharia de Software na FIAP/UTFPR e alguns estudos realizados na plataforma Alura.
 
 ## 🎯 Objetivo
 
@@ -10,6 +10,7 @@ Armazenar e compartilhar projetos e exercícios desenvolvidos durante meu tempo 
 
 - `alura/*` → Todos os cursos práticos realizados na alura a partir de maio/2025
 - `fiap/semestre-1/` → Entendendo e aprendendo o front-end com projetos
+- `utfpr` -> Contém todos os projetos realizados desde o primeiro até o quinto período do curso de engenharia de software, cursado de 2022 até 2024
 
 Cada pasta contém anotações, exercícios, projetos e códigos que desenvolvi durante as disciplinas.
 
