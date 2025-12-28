@@ -1,0 +1,15 @@
+Exercicio 1:
+Pergunta: Qual o numero maximo de etapas que a pesquisa binaria precisaria 
+para encontrar o nome em uma lista ordenada de 128 nomes?
+
+calcular numero maximo de etapas para encontrar o valor na lista (log n na base 2)
+
+log 128 na base 2
+
+(2 elevado a quanto que da 128? R: 7)
+
+levaria 7 etapas para encontrar o nome desejado;
+
+Exercicio 2: E para uma lista de 256 nomes?
+
+levaria 8 etapas (log n na base 2 = 2**8)
